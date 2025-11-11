@@ -1,0 +1,1785 @@
+Washing Machine
+ User manual  
+ WW90*G3M0***/WW80*G3M0***/WW70*G3M0***  
+Untitled-1   1Untitled-1   1 2025-02-13    11:17:412025-02-13    11:17:41
+English2
+Contents
+Safety information 4
+What you need to know about the safety instructions 4
+Important safety symbols 4
+Important safety precautions 5
+Critical installation warnings 7
+Installation cautions 8
+Critical usage warnings 9
+Usage cautions 10
+Critical cleaning warnings 13
+Instructions about the WEEE 14
+Ecodesign 14
+Installation 15
+Whats included 15
+Installation requirements 17
+Step-by-step installation 19
+Before you start 29
+Test run 29
+Laundry guidelines 29
+Detergent recommendation 32
+Detergent drawer guidelines 33
+Operations 36
+Control panel 36
+Simple steps to start 38
+Cycle overview 39
+Settings 41
+Untitled-1   2Untitled-1   2 2025-02-13    11:17:412025-02-13    11:17:41
+English3
+Maintenance 42
+DRUM CLEAN 42
+Emergency drain 43
+Cleaning 44
+Recovery from freezing 47
+Care against an extended time of disuse 47
+Troubleshooting 48
+Checkpoints 48
+Information codes 52
+Specifications 54
+Fabric care chart 54
+Protecting the environment 56
+Spare parts guarantee 56
+Specification sheet 57
+EPREL information  58
+Indicative information (According to EU 2019/2023) 58
+Contact information 59
+QUESTIONS OR COMMENTS? 59
+Untitled-1   3Untitled-1   3 2025-02-13    11:17:412025-02-13    11:17:41
+English4
+  Safety information  
+    Congratulations on your new Samsung washing machine. This manual contains important information 
+on the installation, use, and care of your appliance. Read this manual thoroughly before using the 
+washing machine to ensure that you know how to safely and efficiently operate the features and 
+functions that your new washing machine offers.  
+    To check the products model name, see the label enclosed with the product or attached to the product.  
+     What you need to know about the safety instructions  
+ Please read this manual thoroughly to ensure that you know how to safely and efficiently operate the 
+extensive features and functions of your new appliance. Please store the manual in a safe location close 
+to the appliance for future reference. Use this appliance only for its intended purpose as described in this 
+instruction manual.  
+ Warnings and Important Safety Instructions in this manual do not cover all possible conditions and 
+situations that may occur. It is your responsibility to use common sense, caution and care when installing, 
+maintaining and operating your washing machine.  
+ Because the following operating instructions cover various models, the characteristics of your washing 
+machine may differ slightly from those described in this manual and not all warning signs may be 
+applicable. If you have any questions or concerns, contact your nearest service centre or find help and 
+information online at www.samsung.com.  
+    Important safety symbols  
+  What the icons and signs in this user manual mean:  
+ WARNING   
+  Hazards or unsafe practices that may result in  severe personal injury, death and/or property damage.  
+  CAUTION   
+  Hazards or unsafe practices that may result in  personal injury and/or property damage.  
+   Read the instructions  
+ After reading this manual, store it in a safe place for future reference.  
+ Read all instructions before using the appliance.  
+ NOTE   
+  Indicates that a risk of personal injury or material damage exists.  
+  These warning signs are here to prevent injury to yourself and others.  
+ Please follow them explicitly.  
+ As with any equipment that uses electricity and moving parts, potential hazards exist. To safely operate this 
+appliance, familiarize yourself with its operation and exercise care when using it.   
+Untitled-1   4Untitled-1   4 2025-02-13    11:17:422025-02-13    11:17:42
+English5
+   Important safety precautions  
+  To reduce the risk of fire, electric shock, or injury to persons when using your 
+appliance, follow basic precautions, including the following:  
+1.    This appliance is not intended for use by persons (including children) with 
+reduced physical, sensory or mental capabilities, or lack of experience and 
+knowledge, unless they have been given supervision or instruction concerning 
+use of the appliance by a person responsible for their safety.  
+2.    For use in Europe: This appliance can be used by children aged from 8 years 
+and above and persons with reduced physical, sensory or mental capabilities 
+or lack of experience and knowledge if they have been given supervision or 
+instruction concerning use of the appliance in a safe way and understand the 
+hazards involved. Children shall not play with the appliance. Cleaning and user 
+maintenance shall not be made by children without supervision.  
+3.    Children should be supervised to ensure that they do not play with the 
+appliance.  
+4.    If the supply cord is damaged, it must be replaced by the manufacturer, its 
+service agent or similarly qualified persons in order to avoid a hazard.  
+5.    CAUTION: In order to avoid a hazard due to inadvertent resetting of the 
+thermal cut-out, this appliance must not be supplied through an external 
+switching device, such as a timer, or connected to a circuit that is regularly 
+switched on and off by the utility.  
+6.    The new hose-sets supplied with the appliance are to be used and that old hose-
+sets should not be reused.  
+7.    This appliance is intended to be used in household only and it is not intended to 
+be used such as:  
+     staff kitchen areas in shops, offices and other working environments;  
+     farm houses;  
+     by clients in hotels, motels and other residential type environments;  
+     bed and breakfast type environments;  
+     areas for communal use in blocks of flats or in launderettes.  
+Untitled-1   5Untitled-1   5 2025-02-13    11:17:422025-02-13    11:17:42
+Safety information
+English6
+8.      For appliances with ventilation openings in the base, that a carpet must not 
+obstruct the openings;  
+9.    For use in Europe: Children of less than 3 years should be kept away unless 
+continuously supervised.  
+   NOTE   
+  From the number 10 through the end of the list are only applicable for models with 
+a drying function.  
+10.     The tumble dryer is not to be used if industrial chemicals have been used for 
+cleaning.  
+11.    The lint trap has to be cleaned frequently, if applicable.  
+12.    Lint must not to be allowed to accumulate around the tumble dryer. (not 
+applicable for appliances intended to be vented to the exterior of the building)  
+13.    Adequate ventilation has to be provided to avoid the back flow of gases into the 
+room from appliances burning other fuels, including open fires.  
+14.    Do not dry unwashed items in the tumble dryer.  
+15.    Items that have been soiled with substances such as cooking oil, acetone, 
+alcohol, petrol, kerosene, spot removers, turpentine, waxes and wax removers 
+should be washed in hot water with an extra amount of detergent before being 
+dried in the tumble dryer.  
+16.    Items such as foam rubber (latex foam), shower caps, waterproof textiles, 
+rubber backed articles and clothes or pillows fitted with foam rubber pads 
+should not be dried in the tumble dryer.  
+17.    Fabric softeners, or similar products, should be used as specified by the fabric 
+softener instructions.  
+18.    The final part of a tumble dryer cycle occurs without heat (cool down cycle) to 
+ensure that the items are left at a temperature that ensures that the items will 
+not be damaged.  
+19.    Remove all objects from pockets such as lighters and matches.  
+Untitled-1   6Untitled-1   6 2025-02-13    11:17:422025-02-13    11:17:42
+English7
+20.    WARNING: Never stop a tumble dryer before the end of the drying cycle 
+unless all items are quickly removed and spread out so that the heat is 
+dissipated.  
+21.    WARNING: The appliance must not be supplied through an external switching 
+device, such as a timer, or connected to a circuit that is regularly switched on 
+and off by a utility.  
+22.    Exhaust air must not be discharged into a flue which is used for exhausting 
+fumes from appliances burning gas or other fuels.  
+23.    The appliance must not be installed behind a lockable door, a sliding door or a 
+door with a hinge on the opposite side to that of the tumble dryer, in such a way 
+that a full opening of the tumble dryer door is restricted.  
+      Critical installation warnings  
+ WARNING   
+   The installation of this appliance must be performed by a qualified technician or service company.  
+    Failure to do so may result in electric shock, fire, an explosion, problems with the appliance, or injury.  
+   The appliance is heavy, therefore take care when lifting it.  
+ Plug the power cord firmly into a wall socket that meets local electrical specifications. Use the socket for 
+this appliance only, and do not use an extension cord.  
+    Sharing a wall socket with other appliances using a power strip or extending the power cord may result 
+in electric shock or fire.  
+    Ensure that the power voltage, frequency, and current are the same as those of the product 
+specifications. Failure to do so may result in electric shock or fire.  
+   Remove all foreign substances such as dust or water from the power plug terminals and contact points 
+using a dry cloth on a regular basis.  
+    Unplug the power plug and clean it with a dry cloth.  
+    Failure to do so may result in electric shock or fire.  
+   Plug the power plug into the wall socket so that the cord is running towards the floor.  
+    If you plug the power plug into the socket in the opposite direction, the electric wires within the cable 
+may be damaged and this may result in electric shock or fire.  
+   Keep all packaging materials out of the reach of children as these may be dangerous.  
+    If a child places a bag over its head, it may suffocate.   
+   When the appliance, power plug or power cord is damaged, contact your nearest service centre.  
+ This appliance must be properly grounded.  
+Untitled-1   7Untitled-1   7 2025-02-13    11:17:422025-02-13    11:17:42
+Safety information
+English8
+ Do not ground the appliance to a gas pipe, plastic water pipe, or telephone line.  
+    This may result in electric shock, fire, an explosion, or problems with the appliance.  
+    Never plug the power cord into a socket that is not grounded correctly and make sure that it is in 
+accordance with local and national regulations.   
+   Do not install this appliance near a heater or any inflammable material.  
+ Do not install this appliance in a humid, oily or dusty location, or in a location exposed to direct sunlight or 
+water (rain drops).  
+ Do not install this appliance in a location exposed to low temperatures.  
+    Frost may cause the tubes to burst.  
+   Do not install this appliance in a location where gas may leak.  
+    This may result in electric shock or fire.  
+   Do not use an electric transformer.  
+    This may result in electric shock or fire.  
+   Do not use a damaged power plug, damaged power cord, or loose wall socket.  
+    This may result in electric shock or fire.  
+   Do not pull or excessively bend the power cord.  
+ Do not twist or tie the power cord.  
+ Do not hook the power cord over a metal object, place a heavy object on the power cord, insert the power 
+cord between objects, or push the power cord into the space behind the appliance.  
+    This may result in electric shock or fire.  
+   Do not pull the power cord when unplugging the power plug.  
+    Unplug the power plug by holding the plug.  
+    Failure to do so may result in electric shock or fire.  
+   This appliance should be positioned so that the power plug, the water supply taps, and the drain pipes are 
+accessible.  
+ Following the repair by a non-authorized service provider, self-repair or non-professional repair of the 
+product, Samsung is not liable for any damage to the product, any injury or any other product safety issue 
+caused by any attempt to repair the product which does not carefully follow these repair and maintenance 
+instructions. Any damage to the product caused by an attempt to repair the product by any person other 
+than a Samsung certified service provider will not be covered by the warranty.  
+    Installation cautions  
+ CAUTION   
+   This appliance should be positioned in such a way that the power plug is easily accessible.  
+    Failure to do so may result in electric shock or fire due to electric leakage.  
+Untitled-1   8Untitled-1   8 2025-02-13    11:17:422025-02-13    11:17:42
+English9
+   Install your appliance on a solid, level floor that can support its weight.  
+    Failure to do so may result in abnormal vibrations, movement, noise, or problems with the appliance.  
+      Critical usage warnings  
+ WARNING   
+   If the appliance is flooded, turn off the water & power supplies immediately and contact your nearest 
+service centre.  
+    Do not touch the power plug with wet hands.  
+    Failure to do so may result in electric shock.  
+   If the appliance generates a strange noise, a burning smell, or smoke, unplug the power cord immediately 
+and contact your nearest service centre.  
+    Failure to do so may result in electric shock or fire.   
+   In the event of a gas leak (such as propane gas, LP gas, etc.), ventilate immediately without touching the 
+power plug. Do not touch the appliance or power cord.  
+    Do not use a ventilating fan.  
+    A spark may result in an explosion or fire.  
+   Remove the washing machine door lever before disposing the appliance.  
+    If trapped inside the appliance, children may suffocate to death.  
+   Make sure to remove the packaging (sponge, styrofoam) attached to the bottom of the washing machine 
+before using it.  
+ Do not wash items contaminated with gasoline, kerosene, benzene, paint thinner, alcohol or other 
+inflammable or explosive substances.  
+    This may result in electric shock, fire, or an explosion.  
+   Do not open the washing machine door by force while it is operating (high-temperature washing/drying/
+spinning).  
+    Water flowing out of the washing machine may result in burns or cause the floor to be slippery. This may 
+result in injury.  
+    Opening the door by force may result in damage to the appliance or injury.  
+   Do not touch the power plug with wet hands.  
+    This may result in electric shock.  
+   Do not turn the appliance off by unplugging the power cord while an operation is in progress.  
+    Plugging the power cord into the wall socket again may cause a spark and result in electric shock or fire.  
+   Do not let children climb in or onto the appliance.  
+    This may result in electric shock, burns or injury.  
+   Do not insert your hand or a metal object under the washing machine while it is operating.  
+    This may result in injury.  
+Untitled-1   9Untitled-1   9 2025-02-13    11:17:422025-02-13    11:17:42
+Safety information
+English10
+   Do not unplug the appliance by pulling the power cord. Always grip the plug firmly and pull it straight out of 
+the outlet.  
+    Damage to the power cord may cause a short-circuit, fire and/or electric shock.  
+   Do not attempt to repair, disassemble, or modify the appliance yourself.  
+    Do not use a fuse (such as copper, steel wire, etc.) other than a standard fuse.  
+    When the appliance needs to be repaired or reinstalled, contact your nearest service centre.  
+    Failure to do so may result in electric shock, fire, problems with the appliance, or injury.  
+   If the water supply hose comes loose from the water tap and floods the appliance, unplug the power cord.  
+    Failure to do so may result in electric shock or fire.  
+   Unplug the power cord when the appliance is not being used for long periods of time or during a thunder or 
+lightning storm.  
+    Failure to do so may result in electric shock or fire.  
+   If any foreign substance enters into the appliance, unplug the power cord and contact your nearest 
+Samsung Customer Service.  
+    This may result in electric shock or fire.  
+   Do not let children (or pets) play in or on your washing machine. The washing machine door does not open 
+easily from the inside and children may be seriously injured if trapped inside.  
+    Usage cautions  
+ CAUTION   
+   When the washing machine is contaminated by a foreign substance such as detergent, dirt, food waste, etc., 
+unplug the power cord and clean the washing machine using a damp, soft cloth.  
+    Failure to do so may result in discolouration, deformation, damage, or rust.  
+   The front glass may be broken by a strong impact. Take care when using the washing machine.  
+    If the glass is broken, it may result in injury.  
+   Open the water tap slowly after a long period of non-use, water supply failure, or when reconnecting the 
+water supply hose.  
+    The air pressure in the water supply hose or the water pipe may damage a part of the appliance or result 
+in a water leak.  
+   If a draining error occurs during an operation, check if there is a draining problem.  
+    If the washing machine is used when it is flooded because of a draining problem, it may result in electric 
+shock or fire.  
+   Insert the laundry into the washing machine completely so that the laundry does not get caught in the door.  
+    If laundry gets caught in the door, it may result in damage to the laundry or the washing machine, or 
+result in a water leak.  
+   Turn the water supply off when the washing machine is not being used.  
+    Ensure that the screws on the water supply hose connector are properly tightened.  
+Untitled-1   10Untitled-1   10 2025-02-13    11:17:422025-02-13    11:17:42
+English11
+   Ensure that the rubber seal and front door glass are not contaminated by a foreign substance (e.g. waste, 
+thread, hair, etc.).  
+    If a foreign substance is caught in the door or the door is not completely closed, it may cause a water 
+leak.  
+   Open the water tap and check if the water supply hose connector is firmly tightened and that there is no 
+water leak before using the appliance.  
+    If the screws on the water supply hose connector are loose, it may result in a water leak.  
+   The appliance you have purchased is designed for domestic use only.  
+ Using the appliance for business purposes qualifies as an appliance misuse. In this case, the appliance will 
+not be covered by the standard warranty provided by Samsung and no responsibility can be attributed to 
+Samsung for malfunctions or damages resulting from such misuse.   
+ Do not stand on the appliance or place objects (such as laundry, lighted candles, lighted cigarettes, dishes, 
+chemicals, metal objects, etc.) on the appliance.  
+    This may result in electric shock, fire, problems with the appliance, or injury.  
+   Do not spray volatile material such as insecticide onto the surface of the appliance.  
+    As well as being harmful to humans, this may result in electric shock, fire or problems with the 
+appliance.  
+   Do not place objects that generate electromagnetic fields near the washing machine.  
+    This may result in injury due to a malfunction.  
+   Water drained during a high-temperature wash or drying cycle is hot. Do not touch the water.  
+    This may result in burns or injury.  
+   Draining time may vary depending on the water temperature. If the water temperature is too high, the 
+draining process starts after the water cools down.  
+ Do not wash, spin, or dry water-proof seats, mats, or clothing (*) unless your appliance has a special cycle 
+for washing these items.  
+ (*): Woollen bedding, rain covers, fishing vests, ski pants, sleeping bags, diaper covers, sweat suits, and 
+bicycle, motor cycle and car covers, etc.  
+    Do not wash thick or hard mats even if the washing machine mark is on the care label. This may result in 
+injury or damage to the washing machine, walls, floor, or clothing due to abnormal vibrations.  
+    Do not wash throw rugs or doormats with rubber backing. The rubber backing may come off and stick to 
+inside the drum, and this may result in malfunction such as a drainage error.  
+   Do not operate the washing machine when the detergent drawer is removed.  
+    This may result in electric shock or injury due to a water leak.  
+   Do not touch the insides of the drum during or just after drying as it is hot.  
+    This may result in burns.  
+   The door glass becomes hot during washing and drying. Therefore, do not touch the door glass.   
+Untitled-1   11Untitled-1   11 2025-02-13    11:17:422025-02-13    11:17:42
+Safety information
+English12
+ Also, do not allow children to play around the washing machine or touch the door glass.   
+    This may result in burns.  
+   Do not insert your hand into the detergent drawer.  
+    This may result in injury as your hand may be caught by the detergent input device.  
+   Remove the liquid detergent guide (applicable models only) when using powdered detergent.  
+    If not, water may leak through the front of the detergent drawer.  
+   Do not place any objects (such as shoes, food waste, animals) other than laundry into the washing machine.  
+    This may result in damage to the washing machine, or injury and death in the case of pets due to the 
+abnormal vibrations.  
+   Do not press the buttons using sharp objects such as pins, knifes, fingernails, etc.  
+    This may result in electric shock or injury.  
+   Do not wash laundry contaminated by oils, creams or lotions usually found in skincare shops or massage 
+clinics.  
+    This may cause the rubber seal to become deformed and result in a water leak.  
+   Do not leave metal objects such as safety pins, hair pins or bleach in the drum for long periods of time.  
+    This may cause the drum to rust.  
+    If rust starts appearing on the surface of the drum, apply a (neutral) cleansing agent to the surface and 
+use a sponge to clean it. Never use a metal brush.  
+   Do not use dry cleaning detergent directly and do not wash, rinse, or spin laundry contaminated by dry 
+cleaning detergent.  
+    This may result in spontaneous combustion or ignition due to the heat from the oxidation of the oil.  
+   Do not use water from water cooling/heating devices.  
+    This may result in problems with the washing machine.  
+   Do not use natural hand-washing soap for the washing machine.  
+    If it hardens and accumulates inside the washing machine, it may result in problems with the appliance, 
+discolouration, rust, or bad odours.  
+   Place socks and brassieres in a washing net and wash them with the other laundry.  
+ Do not wash large laundry items such as bedding in the washing net.  
+    Failure to do so may result in injury due to abnormal vibrations.  
+   Do not use hardened detergent.  
+    If it accumulates inside the washing machine, it may result in a water leak.  
+   Make sure that the pockets of all the clothing items to be washed are empty.  
+    Hard, sharp objects such as coins, safety pins, nails, screws, or stones can cause extensive damage to the 
+appliance.  
+   Do not wash clothing with large buckles, buttons or other heavy metal objects.  
+Untitled-1   12Untitled-1   12 2025-02-13    11:17:422025-02-13    11:17:42
+English13
+ Sort the laundry by colour on the basis of its colorfastness and select the recommended cycle, water 
+temperature and additional functions.  
+    This may result in discolouration or fabric damage.  
+   Take care that childrens fingers are not caught in the door when you close it.  
+    Failure to do so may result in injury.  
+   To prevent odours and mould, leave the door open after a wash cycle to allow the drum to dry.  
+ To prevent limescale build up, leave the detergent drawer open after a wash cycle and dry inside it.  
+    Critical cleaning warnings  
+ WARNING   
+   Do not clean the appliance by spraying water directly onto it.  
+ Do not use a strong acidic cleaning agent.  
+ Do not use benzene, thinner or alcohol to clean the appliance.  
+    This may result in discolouration, deformation, damage, electric shock or fire.  
+   Before cleaning or performing maintenance, unplug the appliance from the wall socket.  
+    Failure to do so may result in electric shock or fire.     
+Untitled-1   13Untitled-1   13 2025-02-13    11:17:422025-02-13    11:17:42
+Safety information
+English14
+   Instructions about the WEEE  
+ 
+  Correct Disposal of This Product (Waste Electrical & Electronic Equipment)  
+ (Applicable in countries with separate collection systems)  
+ This marking on the product, accessories or literature indicates that the product and 
+its electronic accessories (e.g. charger, headset, USB cable) should not be disposed 
+of with other household waste at the end of their working life. To prevent possible 
+harm to the environment or human health from uncontrolled waste disposal, please 
+separate these items from other types of waste and recycle them responsibly to 
+promote the sustainable reuse of material resources.  
+ Household users should contact either the retailer where they purchased this product, 
+or their local government office, for details of where and how they can take these 
+items for environmentally safe recycling.  
+ Business users should contact their supplier and check the terms and conditions of 
+the purchase contract. This product and its electronic accessories should not be mixed 
+with other commercial wastes for disposal.  
+  For information on Samsungs environmental commitments and product regulatory obligations, e.g. REACH, 
+visit our sustainability page available via www.samsung.com  
+    Product disposal in France  
+Points de collecte sur www.quefairedemesdechets.fr
+ !
+REPRISE
+ LA LIVRAISON
+ DPOSER
+EN MAGASIN
+ DPOSER
+EN DCHTERIE
+OU OU 
+FR
+Cet appareil
+et ses accessoires
+se recyclent
+ 
+     Ecodesign  
+ For detailed instructions on installation and cleaning of the washing machine and ecodesign information 
+(according to (EU)2019/2023), visit the Samsung website (http://www.samsung.com), go to Support > 
+Support home, and then enter the model name.   
+Untitled-1   14Untitled-1   14 2025-02-13    11:17:422025-02-13    11:17:42
+English15
+  Installation  
+ Follow these instructions carefully to ensure proper installation of the washing machine and to prevent 
+accidents when doing laundry.  
+   Whats included  
+ Make sure all the parts are included in the product package. If you have a problem with the washing 
+machine or the parts, contact a local Samsung customer centre or the retailer.  
+ 
+01  Release lever  02  Detergent drawer  03  Control panel  
+04  Door  05  Drum  06  Debris filter  
+07  Emergency drain tube  08  Filter cover  09  Worktop  
+10  Power plug  11  Drain hose  12  Levelling feet  
+Untitled-1   15Untitled-1   15 2025-02-13    11:17:432025-02-13    11:17:43
+Installation
+English16
+   
+ Spanner   Bolt caps   Hose guide  
+  
+   
+ Cold water hose   Hot water hose     
+ NOTE   
+     Spanner: For removing the shipping bolts and levelling the washing machine.  
+    Bolt caps: For covering the holes after removing the shipping bolts. The provided number of bolt caps 
+depends on the model.  
+    Hose guide: For hanging the drain hose in the drainpipe or wash-basin.  
+    Cold/Hot water hose: For supplying water to the washing machine. (Hot water hoses is for applicable 
+models only.)       
+Untitled-1   16Untitled-1   16 2025-02-13    11:17:432025-02-13    11:17:43
+English17
+   Installation requirements  
+   Electrical supply and grounding  
+    Use an individual branch circuit specific to the 
+washing machine.  
+   To ensure proper grounding, the washing machine 
+comes with a power cord featuring a three-prong 
+grounding plug for use in a properly installed and 
+grounded outlet.  
+ Check with a qualified electrician or service person 
+if you are not sure about the grounding.  
+ Do not modify the provided plug. If it does not fit 
+the outlet, call a qualified electrician to install a 
+proper outlet.  
+ WARNING   
+     Do NOT use an extension cord.  
+    Use only the power cord that comes with the 
+washing machine.  
+    Do NOT connect the ground wire to plastic 
+plumbing, gas lines, or hot water pipes.  
+    Improperly connected grounding conductors 
+may cause electric shock.      
+   Water supply  
+ A proper water pressure for this washing machine 
+is between 50 kPa and 800 kPa. Water pressure 
+less than 50 kPa may cause the water valve not to 
+close completely. Or, it may take longer to fill the 
+drum, causing the washing machine to turn off. 
+Water taps must be within 120 cm from the rear 
+of the washing machine so that the provided inlet 
+hoses reach the washing machine.  
+ To reduce the risk of leaks:  
+    Make sure water taps are easily accessible.  
+    Turn off the taps when the washing machine is 
+not in use.  
+    Check for any leaks at the water inlet hose 
+fittings on a regular basis.  
+   CAUTION   
+  Before using the washing machine for the first 
+time, check all connections at the water valve and 
+taps for any leaks.   
+     Drain  
+ Samsung recommends a standpipe in height of 60-
+90 cm. The drain hose must be connected through 
+the hose clip to the standpipe, and the standpipe 
+must fully cover the drain hose.   
+Untitled-1   17Untitled-1   17 2025-02-13    11:17:432025-02-13    11:17:43
+Installation
+English18
+   Flooring  
+ For best performance, the washing machine must 
+be installed on a solid floor. Wood floors may need 
+to be reinforced to minimise vibration and/or 
+unbalanced loads. Carpeting and soft tile surfaces 
+are not a good resistance to vibrations and may 
+cause the washing machine to move slightly during 
+the spin cycle.  
+ CAUTION   
+  Do NOT install the washing machine on a platform 
+or a poorly supported structure.   
+     Water temperature  
+ Do not install the washing machine in areas where 
+water may freeze as the washing machine always 
+retains some water in its water valves, pumps, and/
+or hoses. Frozen water left in the connection parts 
+may cause damage to belts, the pump, and other 
+components of the washing machine.   
+   Alcove or closet installation  
+ Minimum clearance for stable operation:  
+ Sides   25 mm  
+ Top   25 mm  
+ Rear   50 mm  
+ Front   550 mm  
+ If both the washing machine and a dryer are 
+installed in the same location, the front of the 
+alcove or closet must have at least a 550 mm 
+unobstructed air opening. Your washing machine 
+alone does not require a specific air opening.    
+Untitled-1   18Untitled-1   18 2025-02-13    11:17:432025-02-13    11:17:43
+English19
+   Step-by-step installation  
+   
+  NOTE   
+  While unpacking the washing machine, lift the 
+washing machine from the foam base. Make sure the 
+drum support was removed from the bottom of the 
+washing machine.    
+STEP1      Select a location  
+ Location requirements:  
+    Solid, level surface without carpeting or flooring that may obstruct ventilation  
+    Away from direct sunlight  
+    Adequate room for ventilation and wiring  
+    The ambient temperature is always higher than the freezing point (0 C)  
+    Away from a heat source  
+   NOTE   
+     To prevent excessive vibration while operating the washing machine, consider stability before anything 
+else.  
+    Install your washing machine on a solid and level floor.  
+    Do not install your washing machine on soft floors or floor coverings.  
+    If you install your washing machine on a wood floor, install a water-resistance wooden panel (min 1.18 in. 
+/ 30 mm thick) to the floor. Also, we recommend installing your washing machine on the corner of the 
+wood floor.         
+Untitled-1   19Untitled-1   19 2025-02-13    11:17:432025-02-13    11:17:43
+Installation
+English20
+STEP2   Remove the shipping bolts  
+ Unpack the product package and remove all shipping bolts.  
+ NOTE   
+  Number of shipping bolts may differ depending on the model.  
+  WARNING   
+     Packaging materials can be dangerous to children. Dispose all packaging material (plastic bags, 
+polystyrene, etc.) out of childrens reach.  
+    To avoid injury, cover the holes with bolt caps after removing the shipping bolts. Do not move the 
+washing machine without the shipping bolts in place. Assemble the shipping bolts before moving the 
+washing machine to another location. Keep the shipping bolts in a safe place for future use.  
+   
+1.     Locate the shipping bolts (marked with circle in the 
+figure) on the rear side of the washing machine.     
+   
+2.     Using the supplied spanner, loosen all the shipping 
+bolts by turning them anticlockwise.  
+   NOTE   
+  You must keep the shipping bolts for future use.    
+Untitled-1   20Untitled-1   20 2025-02-13    11:17:442025-02-13    11:17:44
+English21
+ 
+A
+  
+3.     Insert the  bolt caps (A) to the holes (marked with 
+circle in the figure).     
+Untitled-1   21Untitled-1   21 2025-02-13    11:17:442025-02-13    11:17:44
+Installation
+English22
+STEP3   Adjust the levelling feet  
+   
+1.     Gently slide the washing machine into position. 
+Excessive force may damage the levelling feet.     
+   
+2.     Level the washing machine by manually adjusting 
+the levelling feet.     
+   
+3.     When levelling is complete, tighten the nuts using 
+the spanner.     
+   
+  CAUTION   
+  When installing the product make sure the levelling 
+feet is not pressing the power cord.    
+Untitled-1   22Untitled-1   22 2025-02-13    11:17:442025-02-13    11:17:44
+English23
+ CAUTION   
+  Make sure all the levelling feet are seating on the floor surface to avoid the washing machine from moving 
+or generating noise due to vibration. Then, check if the washing machine is rocking. If the washing machine 
+is not rocking, tighten the nuts.   
+STEP4        Connect the water hose  
+ The provided water hose may differ depending on the model. Please follow the instruction according to the 
+provided water hose.  
+   Connecting to a threaded water tap  
+   
+1.     Connect the water hose to the water tap, and then 
+turn it to the right to tighten.  
+   CAUTION   
+  Before connecting the water hose, make sure there is 
+a rubber washer in the hose connector. Do not use the 
+hose if the washer is damaged or missing.    
+   
+2.     Connect the other end of the water hose to the 
+inlet valve on the back of the washing machine, 
+and then turn it to the right to tighten.     
+   
+3.     Slowly open the water tap and check if there are 
+any leaks around the connection areas. If there are 
+water leaks, repeat step 1 and 2.     
+Untitled-1   23Untitled-1   23 2025-02-13    11:17:452025-02-13    11:17:45
+Installation
+English24
+ WARNING   
+  If there is a water leak, stop operating the washing machine and disconnect it from the electrical supply. 
+Then, contact a local Samsung service centre in case of a leak from the water hose, or contact a plumbing 
+technician in case of a leak from the water tap. Otherwise, this may cause electric shock.   
+  CAUTION   
+  Do not stretch the water hose by force. If the hose is too short, replace the hose with a longer, high-pressure 
+hose.  
+    Connecting to a non-threaded water tap  
+ 
+A
+B
+  
+1.     Remove the  adaptor (A) from the water  hose (B).     
+   
+2.     Use a Phillips screwdriver to loosen four screws on 
+the adaptor.     
+ 
+C
+  
+3.     Hold the adaptor and turn  part (C) in the arrow 
+direction to loosen it by 5 mm (*).      
+ 
+C
+  
+4.     Insert the adaptor onto the water tap, and then 
+tighten the screws while lifting the adaptor.  
+5.    Turn  part (C) in the arrow direction to tighten it.     
+Untitled-1   24Untitled-1   24 2025-02-13    11:17:452025-02-13    11:17:45
+English25
+ 
+D
+  
+6.     While pulling down  part (D) on the water hose, 
+connect the water hose to the adaptor. Then, 
+release  part (D). The hose fits into the adaptor with 
+a clicking sound.     
+     7.     To complete connecting the water hose, see 2 and 
+3 on the  Connecting to a threaded water tap 
+section.     
+ NOTE   
+     After connecting the water hose to the adaptor, pull the water hose down to check if it is connected 
+properly.  
+    Use a popular type of water taps. If the tap is square-shaped or too big, remove the spacer ring before 
+inserting the tap into the adaptor.  
+      For models with an additional hot water inlet:  
+   
+1.     Connect the red end of the hot water hose to the 
+hot water inlet on the back of the machine.  
+2.    Connect the other end of the hot water hose to the 
+hot water tap.     
+Untitled-1   25Untitled-1   25 2025-02-13    11:17:452025-02-13    11:17:45
+Installation
+English26
+   Check valve (applicable models only)  
+   
+  Before connecting the water hose to a water tap, 
+connect the supplied check valve to the water tap and 
+then connect the water hose.   
+   Aqua stop hose (applicable models only)  
+ 
+A
+  
+  The aqua stop hose alerts users of a risk of water 
+leaks. It senses the water flow and turns red on the 
+centre  indicator (A) in case of a leak.   
+ NOTE   
+  The end of the aqua stop hose must be fitted to the water tap and not the machine.        
+Untitled-1   26Untitled-1   26 2025-02-13    11:17:462025-02-13    11:17:46
+English27
+STEP5   Position the drain hose  
+ The drain hose can be positioned in three ways:  
+ 
+A
+  
+  Over the edge of a wash basin  
+ The drain hose must be placed between 60 cm and 
+90 cm (*) above from the floor. To keep the spout of 
+the drain hose bent, use the supplied  plastic hose 
+guide (A). Secure the guide to the wall using a hook to 
+ensure stable drainage.   
+   
+  In a drain pipe  
+ The drain pipe should be between 60 cm and 90 cm 
+high (*). It is advisable to use a 65 cm high vertical 
+pipe.  
+    To ensure the drain hose stays in position, use the 
+plastic hose guide provided (see the figure).  
+    To prevent the siphoning of water flow during 
+drainage, make sure to insert the drain hose 15 cm 
+in the drain pipe.  
+    To prevent the drain hose from moving around, 
+secure the hose guide to the wall.  
+   Drain standpipe requirements:  
+    Minimum diameter of 5 cm  
+    Minimum carry-away capacity of 60 litres per 
+minute     
+Untitled-1   27Untitled-1   27 2025-02-13    11:17:462025-02-13    11:17:46
+Installation
+English28
+   
+  In a sink drain pipe branch  
+ The drain pipe branch must be above the sink siphon 
+so that the end of the hose is at least 60 cm (*) above 
+the ground.  
+ CAUTION   
+  Remove the lid on the sink drain pipe branch before 
+connecting the drain pipe to it.    
+STEP6        Power on  
+ Plug the power cord into a wall socket that is correctly rated, grounded, and protected by a fuse or circuit 
+breaker. Then, turn the  Cycle Selector and select a cycle to turn on the washing machine.   
+ NOTE   
+  If the door is locked during installation, plug the power cord, and turn on the power. The door will unlock.        
+Untitled-1   28Untitled-1   28 2025-02-13    11:17:462025-02-13    11:17:46
+English29
+  Before you start  
+  NOTE   
+  Before doing your laundry for the first time, you must run a complete wash cycle without any items in the 
+drum.  
+     Test run  
+1.    Slide open the detergent drawer and apply about 10 g of laundry detergent into the main-wash 
+compartment.  
+2.    Turn the  Cycle Selector and select   ECO 40-60 .  
+ -    The washing machine turns on when you select a cycle.  
+3.      Press   Start/Pause  .  
+      Laundry guidelines  
+STEP1     Sort  
+  Sort the laundry according to these criteria:  
+    Care Label: Sort the laundry into cottons, mixed fibres, synthetics, silks, wools, and rayon.  
+    Colour: Separate whites from colours.  
+    Size: Mixing different sized items together in the drum improves the washing performance.  
+    Sensitivity: Wash delicate items separately using an Easy Iron option for pure, new woollen items, 
+curtains, and silk items. Check the labels on the items.  
+   NOTE   
+  Make sure to check the care label on the clothing, and sort them accordingly before starting the wash.   
+STEP2         Empty pockets  
+  Empty all the pockets of your laundry items  
+    Metal objects such as coins, pins, and buckles on clothing may damage other laundry items as well as 
+the drum.  
+     Turn clothing with buttons and embroideries inside out  
+    If pants or jacket zippers are open while washing, the drum may be damaged. Zippers should be closed 
+and fixed with a string.  
+    Clothing with long strings may become entangled with other clothes. Make sure to tie the strings before 
+starting the wash.  
+STEP3          Use a laundry net  
+    Brassieres (water washable) must be placed in a laundry net. Metal parts of the brassieres may break 
+through and tear other laundry items.  
+    Small, light clothing such as socks, gloves, stockings, and handkerchiefs may become caught around the 
+door. Place them inside a fine laundry net.  
+    Do not wash the laundry net by itself without other laundry. This may cause abnormal vibrations that 
+could move the washing machine and result in injury.  
+Untitled-1   29Untitled-1   29 2025-02-13    11:17:462025-02-13    11:17:46
+Before you start
+English30
+STEP4          Prewash  (if necessary)  
+ Select the   Prewash   option for the selected cycle if the laundry is heavily soiled. When selecting the   Prewash   
+option, make sure to put powder-type detergent into the main wash compartment.  
+STEP5       Determine the load capacity  
+ Do not overload the washing machine. Overloading may cause the washing machine to not wash properly. 
+For the load capacity for the type of clothing, see page 39. 
+ NOTE   
+  When washing bedding or bedding covers, the wash time may be lengthened or the spin efficiency may be 
+reduced. For bedding or bedding covers, the recommended maximum spin cycle speed is 800 rpm, and the 
+load capacity is 2.0 kg or less.   
+  CAUTION   
+     Unbalanced laundry may reduce the spinning performance.   
+    Do not slam the door. Close the door gently. Otherwise, the door may not be closed properly.  
+   
+  CAUTION   
+  Make sure the laundry is fully inserted in the drum 
+and not caught in the door.    
+STEP6       Apply a proper detergent type  
+ The type of detergent depends on the type of fabric (cotton, synthetic, delicate items, wool), colour, 
+wash temperature, and degree of soiling. Always use low suds laundry detergent, which is designed for 
+automatic washing machines.  
+ NOTE   
+     Follow the detergent manufacturers recommendations based on the weight of the laundry, the degree 
+of soiling, and the hardness of the water in your local area. If you are not sure about the water hardness, 
+contact a local water authority.  
+    Do not use detergent that tends to be hardened or solidified. This detergent may remain after the rinse 
+cycle, blocking the drain outlet.  
+    CAUTION   
+  When washing wool using the   WOOL/DELICATES  cycle, use only a neutral liquid detergent. If used with the 
+  WOOL/DELICATES  cycle, powder detergent may remain on the laundry and discolour the laundry.   
+Untitled-1   30Untitled-1   30 2025-02-13    11:17:472025-02-13    11:17:47
+English31
+   Laundry capsules  
+ To get the best results from using laundry capsules, please follow these instructions.  
+   
+1.     Put the capsule in the bottom of the empty drum 
+towards the rear.     
+   
+2.     Put the laundry in the drum on top of the capsule.     
+ CAUTION   
+  For cycles using cold water or cycles that complete in less than one hour, it is recommended to use a liquid 
+detergent. Otherwise, the capsule may not dissolve completely.         
+Untitled-1   31Untitled-1   31 2025-02-13    11:17:472025-02-13    11:17:47
+Before you start
+English32
+   Detergent recommendation  
+  The recommendations apply to the temperature ranges given in the cycle chart.  
+     Recommended       Liquid detergent only  
+    Not recommended       Powder detergent only  
+  Cycle  
+  Detergent  
+  Temp. (C)  
+  Universal    Delicates and 
+woollens    Specialist  
+   ECO 40-60              40  
+   COTTON              Cold-90  
+   SYNTHETICS              Cold-60  
+   QUICK WASH 15'              Cold  
+   MIXED LOAD              Cold-40  
+   HYGIENE STEAM              75  
+   COLOURS              Cold-40  
+   WOOL/DELICATES               20  
+   BEDDING              Cold-60  
+ NOTE   
+  The values given for programmes other than the   ECO 40-60   programme are indicative only.     
+Untitled-1   32Untitled-1   32 2025-02-13    11:17:472025-02-13    11:17:47
+English33
+   Detergent drawer guidelines  
+ The washing machine provides a three-compartment dispenser: the left compartment for the main wash, 
+the centre for fabric softeners, and the right for the preliminary wash.   
+   
+1.      Prewash compartment: Apply prewash 
+detergent or starch.  
+2.     Main-wash compartment: Apply main-wash 
+detergent, water softener, soaking detergent, 
+bleach, and/or stain removers.  
+3.     Softener compartment: Apply additives such as 
+fabric softener. Do not exceed the  max line (A).     
+   
+  NOTE   
+  The actual appearance of the softener guide may 
+differ with the model.    
+ CAUTION   
+     Do not open the detergent drawer while the washing machine is operating.  
+    Do not use the following types of detergent:  
+ -    Tablet or capsule types  
+ -    Ball or net types  
+      To prevent the compartment clogging, concentrated or highly-enriched agents (fabric softener or 
+detergent) must be diluted with water before being applied.  
+    When   Delay End   is selected, do not apply detergent directly into the drum. Otherwise, this may discolour 
+the laundry. Use the detergent drawer when   Delay End   is selected.  
+Untitled-1   33Untitled-1   33 2025-02-13    11:17:472025-02-13    11:17:47
+Before you start
+English34
+      To apply washing agents to the detergent drawer  
+ 
+A
+  
+1.     Slide open the detergent drawer.  
+2.    Apply laundry detergent to the   main-wash 
+compartment as instructed or recommended by 
+the manufacturer.  
+ Do not exceed the  max line (A) when adding 
+detergent.     
+   
+3.     Apply fabric softener to the   softener 
+compartment. Do not exceed the  max line (A).  
+ Softener is dispensed into the wash during the 
+final rinse.     
+   
+4.     If you want to prewash, apply prewash detergent 
+to the   prewash compartment as instructed or 
+recommended by the manufacturer.  
+5.    Close the detergent drawer.     
+Untitled-1   34Untitled-1   34 2025-02-13    11:17:482025-02-13    11:17:48
+English35
+   
+  CAUTION   
+     Do not apply powder detergent to the liquid 
+detergent guide.  
+    Concentrated fabric softener must be diluted with 
+water before applied.  
+    Do not apply main-wash detergent to the 
+  softener compartment.      
+Untitled-1   35Untitled-1   35 2025-02-13    11:17:482025-02-13    11:17:48
+English36
+  Operations  
+   Control panel  
+ 
+01
+02
+03
+04 05 07 0806
+ 
+  01  Cycle Selector   Turn the dial to select a cycle.  
+  02   Power    
+ Select this icon using the  Cycle Selector to turn off the washing machine.  
+    Turn the  Cycle Selector away from this icon and select a cycle to turn 
+on the washing machine.  
+    Even if you do not turn the  Cycle Selector back to this position, the 
+washing machine automatically turns off when the cycle completes.    
+  03  Display  
+ The display shows current cycle information and estimated time 
+remaining, or an information code when a problem occurs.  
+ NOTE   
+  The actual washing time may differ from the estimated time initially 
+displayed on the control panel upon cycle selection.   
+  04   Start/Pause      Press to start or stop operation.  
+  05   Delay End    
+   Delay End   lets you set the end time of the current cycle. Based on your 
+settings, the start time of the cycle will be determined by the machines 
+internal logic. For example, this setting is useful for programming your 
+machine to finish a wash at the time you normally return home from 
+work.  
+    Press to choose a preset unit of hours.    
+  06   Temp.     Press to change the water temperature for the current cycle.  
+  07   Spin    
+ Press to change the spinning speed for the current cycle.  
+     Rinse Hold  (No indicator): The final rinse process is suspended so that 
+the laundry remains in the water. To unload the laundry, run a drain or 
+spin process.  
+ -    To use the   Rinse Hold   option, press   Spin   repeatedly until all the 
+  Spin   option indicators turn off.  
+       No Spin  : The drum does not spin after the final drain process.  
+ -    To use the   No Spin   option, press   Spin   repeatedly until the 
+option indicator ( ) turns on.       
+Untitled-1   36Untitled-1   36 2025-02-13    11:17:492025-02-13    11:17:49
+English37
+  08   Options    
+ Press repeatedly to cycle through the available options in the following 
+order:   Extra Rinse    >   Prewash    >   Soak    >   Prewash    +  Extra Rinse    
+>   Soak    +  Extra Rinse    >  Off  
+ NOTE   
+  Available options depend on the selected cycle.  
+     Soak   : This function helps remove a wide variety of stubborn stains.  
+     Prewash   : Use this function to add a preliminary washing cycle 
+before the main wash cycle.  
+     Extra Rinse   : Use this function to add an additional rinse cycle.     
+    Icon description  
+  Option    Description  
+    Door Lock   
+    This icon indicates the door is locked and cannot be opened.  
+    The door locks automatically during a cycle and this indicator turns 
+on.  
+    You can open the door when this icon disappears.    
+    Child Lock       This icon indicates that   Child Lock   is on.  
+    For more information on  Child Lock , see page 41.   
+    Sound Off       This icon indicates that the alarm sound is off.  
+    For more information on  Sound Off , see page 41.   
+ 
+   DRUM CLEAN  
+ reminder  
+    This icon indicates that you should clean the drum using the   DRUM 
+CLEAN   cycle.  
+    After every 40 cycles, this icon appears for an hour and then turns 
+off automatically. The icon will appear for 5 more cycles, turn off, and 
+then will not appear for another 40 cycles.    
+Untitled-1   37Untitled-1   37 2025-02-13    11:17:502025-02-13    11:17:50
+Operations
+English38
+   Simple steps to start  
+1
+2 345
+ 
+1.    Turn the  Cycle Selector and select a cycle.  
+ -    The washing machine turns on when you select a cycle.  
+2.      Change the cycle settings (  Temp.  , and   Spin  ) as necessary.  
+3.    To add an option, press the   Options  .  
+4.    Set   Delay End   if you want to finish the wash cycle at the desired time.  
+5.    Press   Start/Pause  .  
+     To change the cycle during operation  
+1.    Press   Start/Pause   to stop operation.  
+2.    Select a different cycle.  
+3.    Press   Start/Pause   again to start the new cycle.      
+Untitled-1   38Untitled-1   38 2025-02-13    11:17:502025-02-13    11:17:50
+English39
+   Cycle overview  
+   Standard cycles  
+  Cycle    Description    9 kg 
+model  
+  8 kg 
+model  
+  7 kg 
+model  
+   ECO 40-60   
+    For cleaning normally soiled cotton items which 
+are declared to be washable at 40 C or 60 C, 
+together in the same cycle. This cycle is used to 
+assess the compliance with the  EU Ecodesign  
+legislation.  
+    This cycle is set as a default.    
+ 9   8   7  
+   COTTON   
+    For cottons, bed linens, table linens, underwear, 
+towels, or shirts. The washing time and the rinse 
+count are automatically adjusted according to 
+the load.    
+ 9   8   7  
+   SYNTHETICS       For fabrics that are made of polyester(diolen, 
+trevira), polyamide (perlon, nylon), or the like.     4.5   4   3.5  
+   RINSE+SPIN       Featuring an additional rinse process after 
+applying fabric softener to the laundry.     9   8   7  
+   DRAIN/SPIN   
+    For draining the water inside the drum and 
+running an additional spin process to effectively 
+remove moisture from laundry.    
+ 9   8   7  
+   DRUM CLEAN   
+    Cleans the drum by removing dirt and bacteria 
+from it.  
+    Make sure the drum is empty.  
+    Do not use any cleaning agents for cleaning the 
+drum.    
+ -   -   -  
+   QUICK WASH 15'       For lightly soiled items in less than 2.0 kg that 
+you want to wash quickly.     2   2   2  
+   MIXED LOAD       For mixed load consisting of cotton and 
+synthetic.     4.5   4   3.5  
+   HYGIENE STEAM   
+    Cotton and linen fabric which have been in 
+direct contact with the skin, e.g. underwear.  
+    Steam cycles feature allergy care and bacteria 
+elimination (sterilize).    
+ 2   2   2  
+   COLOURS   
+    Featuring additional rinses and reduced 
+spinning to ensure that the laundry is washed 
+gently and rinsed thoroughly.    
+ 4.5   4   3.5  
+Untitled-1   39Untitled-1   39 2025-02-13    11:17:502025-02-13    11:17:50
+Operations
+English40
+  Cycle    Description    9 kg 
+model  
+  8 kg 
+model  
+  7 kg 
+model  
+   WOOL/DELICATES   
+    Specific for machine-washable wool and 
+delicates fabrics such as sheer fabrics, bras, 
+lingerie (silk), and other handwash-only fabrics.  
+    The   WOOL/DELICATES   cycle features gentle 
+cradling and soaking to protect fibres from 
+shrinkage/distortion.    
+ 2   2   2  
+   BEDDING   
+    For bed spreads, bed sheets, bedding covers, 
+etc.  
+    For best results, wash only 1 type of bedding.    
+ 2   2   2  
+ NOTE   
+     Loading the household washing machine or the household washer-dryer up to the capacity indicated by 
+the manufacturer for the respective programmes will contribute to energy and water savings.  
+    The noise and remaining moisture content are influenced by the spinning speed: the higher the spinning 
+speed in the spinning phase, the higher the noise and the lower the remaining moisture content.  
+    The most efficient cycle in terms of energy consumption are generally those that perform at lower 
+temperatures and longer duration.       
+Untitled-1   40Untitled-1   40 2025-02-13    11:17:502025-02-13    11:17:50
+English41
+   Settings  
+    Child Lock    
+ To prevent accidents by children,   Child Lock   locks all buttons.  
+    To activate or deactivate the   Child Lock   function, press and hold   Temp.   and   Spin   simultaneously for 
+3 seconds. When the   Child Lock   function is activated, the  indicator lights up.  
+       Sound Off    
+ You can turn on or off the sound from the washer.  
+    To turn on or off the sound, press and hold   Spin   and   Options   simultaneously for 3 seconds. When 
+the sound is off, the  indicator lights up.  
+       Delay End    
+ You can set the washing machine to finish your wash automatically at a later time, choosing a delay of 
+between 3 to 24 hours (in 1 hour increments). The hour displayed indicates the time the wash will finish.  
+1.    Select a cycle. Then change the cycle settings if necessary.  
+2.    Press   Delay End   repeatedly until a desired end time is set.  
+3.    Press   Start/Pause  .  
+ The corresponding indicator turns on with the clock running.  
+4.    To cancel the   Delay End  , turn the washing machine off and then turn it on.  
+    Real-life case  
+ You want to finish a two-hour cycle 3 hours later from now. For this, you add the   Delay End   option to the 
+current cycle with the 3-hour setting, and press   Start/Pause   at 2:00 p.m. Then, what happens? The 
+washing machine starts operating at 3:00 p.m., and ends at 5:00 p.m. Provided below is the time line for 
+this example.  
+2:00 pm
+Set Delay End to 3 hours
+3:00 pm
+Start
+5:00 pm
+End
+    
+Untitled-1   41Untitled-1   41 2025-02-13    11:17:502025-02-13    11:17:50
+English42
+  Maintenance  
+ Keep the washing machine clean to prevent deteriorated performance and to preserve its life cycle.  
+    DRUM CLEAN   
+ Perform this cycle regularly to clean the drum by removing bacteria from it. This cycle heats the water 
+between 60 C and 70 C, and it also removes accumulated dirt from the rubber door gasket.  
+1.    Turn the  Cycle Selector and select   DRUM CLEAN .  
+ -    The washing machine turns on when you select a cycle.  
+2.      Press   Start/Pause  .  
+   NOTE   
+     The water temperature for   DRUM CLEAN  is set to 70 C, which cannot be changed.  
+    It is recommended to run the   DRUM CLEAN  cycle once every 40 washes.  
+    To prevent limescale, add the proper amount of detergent according to your local water hardness or add 
+a water softener additive together with the detergent.  
+       DRUM CLEAN  reminder  
+ Depending on the model, the   DRUM CLEAN  reminder is either an icon or an LED.   
+ For icons, the icon lights up on the control panel.  
+ For LEDs, the LED lights up next to   DRUM CLEAN , or on the option area of the control panel.   
+    The   DRUM CLEAN  reminder blinks on the control panel once every 40 washes. It is advisable to perform 
+  DRUM CLEAN  regularly.  
+    When you first see this reminder blinking, you can ignore the reminder for 6 consecutive washes. From 
+the 7 th wash, the reminder no longer appears. However, it appears again on the second 40 th wash.  
+    Even if the   DRUM CLEAN  reminder does not disappear, the machine operates normally.  
+    It is recommended to run the cycle regularly for hygienic purposes.      
+Untitled-1   42Untitled-1   42 2025-02-13    11:17:502025-02-13    11:17:50
+English43
+   Emergency drain  
+ In case of a power failure, drain the water inside the drum before taking out the laundry.  
+ 
+A
+  
+1.     Power off and unplug the washing machine from 
+the electrical outlet.  
+2.    Open the  filter cover (A) with tools such as coins 
+according to the direction of the graphic.     
+ 
+B
+  
+3.     Put an empty, spacious container around the 
+cover, and stretch the emergency drain tube to the 
+container while holding the  tube cap (B).     
+ 
+C
+  
+4.     Open the tube cap and let water in the  emergency 
+drain tube (C) flow into the container.  
+5.    When done, close the tube cap, and reinsert the 
+tube. Then, close the filter cover.  
+   NOTE   
+  Use a spacious container because the water in the 
+drum may be more than expected.    
+Untitled-1   43Untitled-1   43 2025-02-13    11:17:512025-02-13    11:17:51
+Maintenance
+English44
+   Cleaning  
+   Surface of the washing machine  
+ Use a soft cloth with a nonabrasive household detergent. Do not spray water onto the washing machine.  
+    Mesh filter  
+ Clean the mesh filter of the water hose once or twice a year.  
+   
+1.     Turn off the washing machine, and unplug the 
+power cord.  
+2.    Close the water tap.  
+3.    Loosen and disconnect the water hose from the 
+back of the washing machine. Cover the hose with 
+a cloth to prevent water from gushing out.     
+   
+4.     Use pliers to pull out the mesh filter from the inlet 
+valve.  
+5.    Submerge the mesh filter deeply in water so that 
+the threaded connector is also submerged.  
+6.    Dry the mesh filter completely in the shade.  
+7.    Reinsert the mesh filter into the inlet valve, and 
+reconnect the water hose to the inlet valve.  
+8.    Open the water tap.     
+ NOTE   
+  If the mesh filter is clogged, an information code of  4C appears on the screen.    
+Untitled-1   44Untitled-1   44 2025-02-13    11:17:512025-02-13    11:17:51
+English45
+   Debris filter  
+ It is advisable to clean the debris filter every 2 months to prevent its clogging. A clogged debris filter may 
+reduce the bubble effect.  
+ 
+A
+  
+1.     Turn off the washing machine, and unplug the 
+power cord.  
+2.    Drain the remaining water inside the drum. See the 
+ Emergency drain section.  
+3.    Open the  filter cover (A) with tools such as coins 
+according to the direction of the graphic.     
+   
+4.     Turn the debris filter knob to the left, and drain off 
+the remaining water.     
+   
+5.     Clean the debris filter using soft brushes. Make 
+sure the drain pump propeller inside the filter is 
+unclogged.  
+6.    Reinsert the debris filter, and turn the filter knob 
+to the right. Then, close the filter cover.     
+ NOTE   
+  If the debris filter is clogged, an information code of  5C appears on the screen.  
+  CAUTION   
+     Make sure the filter knob is closed properly after cleaning the filter. Otherwise, this may cause a leak.  
+    Make sure the filter is inserted properly after cleaning it. Otherwise, this may cause an operational 
+failure or a leak.      
+Untitled-1   45Untitled-1   45 2025-02-13    11:17:512025-02-13    11:17:51
+Maintenance
+English46
+   Detergent drawer  
+ 
+A
+  
+1.     While holding down the  release lever (A) on the 
+inner of the drawer, slide open the drawer.  
+2.    Remove the release lever and the liquid detergent 
+guide from the drawer.     
+   
+3.     Clean the drawer components in flowing water 
+using a soft brush.     
+   
+4.     Clean the drawer recess using a bottle brush to 
+remove detergent residues and limescale on the 
+drawer recess.  
+5.    Reinsert the release lever and the liquid detergent 
+guide to the drawer.  
+6.    Slide the drawer inward to close it.     
+ NOTE   
+  To remove remaining detergent, perform the   RINSE+SPIN  cycle with the drum being empty.     
+Untitled-1   46Untitled-1   46 2025-02-13    11:17:522025-02-13    11:17:52
+English47
+   Recovery from freezing  
+ The washing machine may freeze when it drops below 0 C.  
+1.    Turn off the washing machine, and unplug the power cord.  
+2.    Pour warm water over the water tap to loosen the water hose.  
+3.    Disconnect the water hose, and soak it in warm water.  
+4.    Pour warm water into the drum and leave it for about 10 minutes.  
+5.    Reconnect the water hose to the water tap.  
+   NOTE   
+  If the washing machine still doesnt operate normally, repeat the above steps until it operates normally.  
+     Care against an extended time of disuse  
+ Avoid leaving the washing machine unused for an extended time. If this is the case, drain the washing 
+machine and unplug the power cord.  
+1.    Turn the  Cycle Selector and select   RINSE+SPIN .  
+ -    The washing machine turns on when you select a cycle.  
+2.      Empty the drum, and press   Start/Pause  .  
+3.    When the cycle is complete, close the water tap and disconnect the water hose.  
+4.    Turn off the washing machine, and unplug the power cord.  
+5.    Open the door to let air circulate through the drum.     
+Untitled-1   47Untitled-1   47 2025-02-13    11:17:522025-02-13    11:17:52
+English48
+  Troubleshooting  
+   Checkpoints  
+ If you encounter a problem with the washing machine, first check the table below and try the suggestions.  
+  Problem    Action  
+  Does not start.  
+    Make sure the washing machine is plugged in.  
+    Make sure the door is properly closed.  
+    Make sure the water taps are open.  
+    Make sure to press   Start/Pause   to start the washing machine.  
+    Make sure   Child Lock    is not activated.  
+    Before the washing machine starts to fill, it will make a series of clicking 
+noises to check the door lock and does a quick drain.  
+    Check the fuse or reset the circuit breaker.    
+  Water supply is 
+insufficient, or no water 
+is supplied.  
+    Fully open the water tap.  
+    Make sure the door is properly closed.  
+    Make sure the water supply hose is not frozen.  
+    Make sure the water supply hose is not kinked or clogged.  
+    Make sure there is sufficient water pressure.    
+  After a cycle, detergent 
+remains in the 
+detergent drawer.  
+    Make sure the washing machine is running with sufficient water pressure.  
+    Make sure the detergent is added to the centre of the detergent drawer.  
+    Make sure the rinse cap is inserted properly.  
+    If using granular detergent, make sure the detergent selector is in the 
+upper position.  
+    Remove the rinse cap and clean the detergent drawer.    
+  Excessive vibrations or 
+makes noise.  
+    Make sure the washing machine is installed on a level, solid floor that is not 
+slippery. If the floor is not level, use the levelling feet to adjust the height 
+of the washing machine.  
+    Make sure the shipping bolts are removed.  
+    Make sure the washing machine is not contacting any other object.  
+    Make sure the laundry load is balanced.  
+    The motor can cause noise during normal operation.  
+    Overalls or metal-decorated clothes can cause noise while being washed. 
+This is normal.  
+    Metal objects such as coins can cause noise. After washing, remove these 
+objects from the drum or filter case.    
+Untitled-1   48Untitled-1   48 2025-02-13    11:17:522025-02-13    11:17:52
+English49
+  Problem    Action  
+  Does not drain and/ or 
+spin.  
+    Make sure the drain hose is straightened all the way to the drain system. If 
+you encounter a drain restriction, call for service.  
+    Make sure the debris filter is not clogged.  
+    Close the door and press   Start/Pause  . For your safety, the washing 
+machine will not tumble or spin unless the door is closed.  
+    Make sure the drain hose is not frozen or clogged.  
+    Make sure the drain hose is connected to a drain system that is not clogged.  
+    If the washing machine is not supplied with sufficient power, the washing 
+machine temporarily will not drain or spin. As soon as the washing machine 
+regains sufficient power, it will operate normally.    
+  Spinning does not work.      Make sure laundry is spread out evenly.  
+    Make sure the washing machine is on a flat, stable surface.    
+  The door does not open.  
+    Press   Start/Pause   to stop the washing machine.  
+    It may take a few moments for the door lock mechanism to disengage.  
+    Make sure all the water in the drum is drained.  
+    The door may not open if water remains in the drum. Drain the drum and 
+open the door manually.  
+    Make sure the door lock light is off. The door lock light turns off after the 
+washing machine has drained.    
+  Excessive suds.  
+    Make sure you use the recommended types of detergent as appropriate.  
+    Use high efficiency (HE) detergent to prevent oversudsing.  
+    Reduce the detergent amount for soft water, small loads, or lightly soiled 
+loads.  
+    Non-HE detergent is not recommended.    
+  Cannot apply additional 
+detergent.  
+    Make sure the remaining amount of detergent and fabric softener is not 
+over the limit.    
+  Stops.  
+    Plug the power cord into a live electrical outlet.  
+    Check the fuse or reset the circuit breaker.  
+    Close the door and press the   Start/Pause   button to start the washing 
+machine. For your safety, the washing machine will not tumble or spin 
+unless the door is closed.  
+    Before the washing machine starts to fill, it will make a series of clicking 
+noises to check the door lock and does a quick drain.  
+    There may be a pause or soak period in the cycle. Wait briefly and the 
+washing machine may start.  
+    Make sure the mesh filter of the water supply hose at the water taps are 
+not clogged. Periodically clean the mesh filter.  
+    If the washing machine is not supplied with sufficient power, the washing 
+machine temporarily will not drain or spin. As soon as the washing machine 
+regains sufficient power, it will operate normally.    
+Untitled-1   49Untitled-1   49 2025-02-13    11:17:522025-02-13    11:17:52
+Troubleshooting
+English50
+  Problem    Action  
+  Fills with the wrong 
+water temperature.  
+    Fully open both taps.  
+    Make sure the temperature selection is correct.  
+    Make sure the hoses are connected to the correct taps. Flush water lines.  
+    Make sure the water heater is set to supply a minimum 120 F (49 C) hot 
+water at the tap. Also, check the water heater capacity and recovery rate.  
+    Disconnect the hoses and clean the mesh filter. The mesh filter may be 
+clogged.  
+    While the washing machine fills, the water temperature may change 
+as the automatic temperature control feature checks incoming water 
+temperature. This is normal.  
+    While the washing machine fills, you may notice just hot and/or just cold 
+water going through the dispenser when cold or warm temperatures are 
+selected. This is a normal function of the automatic temperature control 
+feature as the washing machine determines the water temperature.    
+  Load is wet at the end of 
+a cycle.  
+    Use the High or Extra High spin speed.  
+    Use high efficiency (HE) detergent to reduce oversudsing.  
+    Load is too small. Small loads (one or two items) may become unbalanced 
+and not spin completely.  
+    Make sure the drain hose is not kinked or clogged.    
+  Leaks water.  
+    Make sure the door is properly closed.  
+    Make sure all hose connections are tight.  
+    Make sure the end of the drain hose is correctly inserted and secured to the 
+drain system.  
+    Avoid overloading.  
+    Use high efficiency (HE) detergent to prevent oversudsing.  
+    Check if there is something stuck between the door and the diaphragm.  
+ -    If there is something stuck between the door and the diaphragm, it may 
+cause a leak or damage to the diaphragm.      
+  Has odours.  
+    Excessive suds collect in recesses and can cause foul odours.  
+    Run cleansing cycles to sanitize periodically.  
+    Clean the door seal (diaphragm).  
+    Dry the washing machine interior after a cycle has finished.    
+  No bubbles are seen 
+(Bubble models only).  
+    Overloading may screen bubbles.  
+    Severely contaminated laundry may not generate bubbles.    
+  Increased time of 
+washing.  
+    The actual washing time may differ from the estimated time initially 
+displayed on the control panel upon cycle selection.    
+Untitled-1   50Untitled-1   50 2025-02-13    11:17:522025-02-13    11:17:52
+English51
+  Problem    Action  
+  Stains on the clothes.  
+    Do not pour fabric softener directly onto your clothes. Applying it directly 
+to clothing can leave stains (for example, oily spots or ingrained dirt) that 
+might be difficult to remove.    
+    If a problem persists, contact a service center. The number of the service center is on the label attached 
+to the product.  
+    Samsung is not liable for any damage to the product, any injury, or any other product safety issue caused 
+by a repair which does not follow the instructions in these Repair Guides. Any damage to the product 
+caused by an attempted repair (by anyone other than a Samsung certified service provider) will also not 
+be covered by the warranty.     
+Untitled-1   51Untitled-1   51 2025-02-13    11:17:522025-02-13    11:17:52
+Troubleshooting
+English52
+   Information codes  
+ If the washing machine fails to operate, you may see an information code on the screen. Check the table 
+below and try the suggestions.  
+  Code    Action  
+  4C  
+ Water is not supplied.  
+    Make sure the water taps are open.  
+    Make sure the water hoses are not clogged.  
+    Make sure the water taps are not frozen.  
+    Make sure the washing machine is running with sufficient water pressure.  
+    Make sure that the cold water tap and the hot water tap are properly connected.  
+    Clean the mesh filter as it may be clogged.    
+  5C  
+ Water is not draining.  
+    Make sure the drain hose is not frozen or clogged.  
+    Make sure the drain hose is positioned correctly, depending on the connection 
+type.  
+    Clean the debris filter as it may be clogged.  
+    Make sure the drain hose is straightened all the way to the drain system.  
+    If the information code remains, contact a customer service centre.    
+  dC  
+ Operating the washing machine with the door open.  
+    Make sure the door is properly closed.  
+    Make sure laundry is not caught in the door.    
+  dC1  
+ Door cannot be locked.  
+    Make sure the door is properly closed.  
+    Turn off the washing machine, and then turn it on again.  
+    If the information code remains, contact a customer service centre.    
+  OC  
+ Water is overflowed.  
+    Restart after spinning.  
+    If the information code remains on the display, contact a local Samsung service 
+centre.    
+  LC  
+ Check the drain hose.  
+    Make sure the end of the drain hose is not placed on the floor.  
+    Make sure the drain hose is not clogged.  
+    If the information code remains, contact a customer service centre.    
+  3C  
+ Check the motor for operation.  
+    Try restarting the cycle.  
+    If the information code remains, contact a customer service centre.    
+  TC1   Water heating temperature sensor needs to be checked.  
+    If the information code remains, contact a customer service centre.    
+Untitled-1   52Untitled-1   52 2025-02-13    11:17:522025-02-13    11:17:52
+English53
+  Code    Action  
+  HC   High temperature heating check.  
+    If the information code remains, contact a customer service centre.    
+  1C  
+ The Water Level sensor is not working properly.  
+    Try power off and restarting the cycle.  
+    If the information code remains, contact a customer service centre.    
+  AC  
+ Check communications between main and sub PBAs.  
+    Try power off and restarting the cycle.  
+    If the information code remains, contact a customer service centre.    
+  AC6   Inverter communication check.  
+    If the information code remains, contact a customer service centre.    
+ If any information code keeps appearing on the screen, contact a local Samsung service centre.   
+Untitled-1   53Untitled-1   53 2025-02-13    11:17:522025-02-13    11:17:52
+English54
+  Specifications  
+     Fabric care chart  
+ The following symbols provide garment care 
+direction. The Clothing care labels include 
+symbols for drying, bleaching, drying and ironing, 
+or dry cleaning when necessary. The use of 
+symbols ensures consistency among garment 
+manufacturers of domestic and imported items.  
+ Follow care label directions to maximize garment 
+life and reduce laundering problems.  
+   Washing  
+  95 C normal wash.   
+  60 C normal wash.   
+  60 C mild wash.  
+  40 C normal wash.   
+  40 C mild wash.   
+  40 C very mild wash.   
+  30 C normal wash.   
+  30 C mild wash.   
+  30 C very mild wash.   
+  Hand wash.   
+  Do not wash.  
+ NOTE   
+  The numbers in the wash tub specify the maximum 
+washing temperatures in degrees celsius which 
+must not be exceeded.     
+   Bleaching  
+  Any bleach allowed.  
+  Only oxygen bleach allowed.  
+  Do not bleach.  
+    Drying  
+ 
+ Tumble drying / normal temperture / 
+maximum exhaust temperatue 80 C.  
+ 
+ Tumble drying / lower temperature / 
+maximum exhaust temperature 60 C.  
+  Do not tumble dry  
+  Line drying.  
+  Drip line drying.  
+  Flat drying.  
+  Drip flat drying.  
+  Line drying in the shade.  
+  Drip line drying in the shade.  
+  Flat drying in the shade.  
+  Drip flat drying in the shade.  
+ NOTE   
+     The dots indicate the drying level of the dryer.  
+    The lines indicate the type and place of the 
+drying.      
+Untitled-1   54Untitled-1   54 2025-02-13    11:17:552025-02-13    11:17:55
+English55
+   Ironing  
+ 
+ Iron at maximum sole plate 
+temperature of 200 C.  
+ 
+ Iron at maximum sole plate 
+temperature of 150 C.  
+ 
+ Iron at maximum sole plate 
+temperature of 110 C.   
+ Caution when using steam irons (work 
+without steam).  
+  Do not iron.  
+ NOTE   
+  The dots indicate the temperature ranges for 
+ironing (regulator, steam, travel irons and ironing 
+machines).  
+     Professional care  
+ 
+ Professional dry-cleaning in 
+perchloroethylene and/or 
+hydrocarbons (heavy benzines) with 
+normal process.  
+ 
+ Professional dry-cleaning in 
+perchloroethylene and/or 
+hydrocarbons (heavy benzines) with 
+gentle process.  
+ 
+ Professional dry-cleaning in 
+hydrocarbons (heavy benzines) with 
+normal process.  
+ 
+ Professional dry-cleaning in 
+hydrocarbons (heavy benzines) with 
+gentle process.  
+  Do not dry-clean.  
+  Professional wet-cleaning.  
+  Mild professional wet-cleaning.  
+  Very mild professional wet-cleaning.  
+  Do not wet-clean.  
+ NOTE   
+     The letters in a circle indicate the solvents ( P ,  F ) 
+used in dry cleaning or wet cleaning ( W ).   
+    Generally, the line under the symbol indicates 
+a milder treatment (e.g. gentle cycle for easy-
+care items). The double line indicates care levels 
+with particularly gentle treatment.         
+Untitled-1   55Untitled-1   55 2025-02-13    11:17:572025-02-13    11:17:57
+Specifccaiion
+English56
+   Protecting the environment  
+    This appliance is manufactured from recyclable materials. If you decide to dispose of it, please observe 
+local waste disposal regulations. Cut off the power cord so that the appliance cannot be connected 
+to a power source. Remove the lid so that animals and small children cannot get trapped inside the 
+appliance.  
+    Do not exceed the detergent quantities recommended in the detergent manufacturers instructions.  
+    Use stain removal products and bleaches before the wash cycle only when necessary.  
+    Save water and electricity by only washing full loads (the exact amount depends upon the program 
+used).  
+      Spare parts guarantee  
+ We guarantee that the following spare parts will be available to professional repairers and end-users for a 
+minimum period of 10 years after placing the last unit of the model on the market.  
+    Door, door hinges and seals, other seals, door locking assembly, and plastic peripherals such as 
+detergent dispensers.  
+    Listed parts can be purchased at below website.  
+ -    http://www.samsung.com/support       
+Untitled-1   56Untitled-1   56 2025-02-13    11:17:572025-02-13    11:17:57
+English57
+   Specification sheet  
+ * Asterisk(s) means variant model and can be varied  (0-9)  or  (A-Z) .  
+A
+B
+C
+D
+E
+ 
+  Type    Front loading washing machine  
+ Model name    WW90FG3M05**     WW80FG3M05**     WW70FG3M05**   
+ Dimensions  
+ A (Width)   595 mm  
+ B (Height)   850 mm  
+ C (Depth)   520 mm   480 mm   455 mm  
+ D   560 mm   520 mm   495 mm  
+ E   978 mm   938 mm   913 mm  
+ Water pressure   50-800 kPa  
+ Net weight   64.0 kg   59.0 kg   57.0 kg  
+ Maximum load capacity   Washing and 
+spinning   9.0 kg   8.0 kg   7.0 kg  
+ Power 
+consumption  
+ Washing and 
+heating  
+ AC 220-240 V 
+/ 50 Hz    1900 W  
+ Spin revolutions   1400 RPM  
+ NOTE   
+     The design and specifications are subject to change without notice for quality improvement purposes.  
+    The dimensions stated here may differ slightly from the actual measurements depending on the
+measuring method.      
+Untitled-1   57Untitled-1   57 2025-02-13    11:17:572025-02-13    11:17:57
+Specifccaiion
+English58
+   EPREL information   
+ To access energy labelling information about this product on the European Product Registry for Energy 
+Labelling (EPREL), go to https://eprel.ec.europa.eu/qr/****** where ****** is the products EPREL 
+registration number. You can find the registration number on the rating label of your product.  
+    Indicative information (According to  EU 2019/2023 )  
+  Model    Cycles    Capacity (kg)    Program Time   
+  (HH:MM)  
+  Energy 
+Consumption   
+  (kWh/Cycle)  
+  Water 
+Consumption   
+  (L/cycle)  
+  Maximum 
+Temperature 
+(C)  
+  Remaining 
+Moisture 
+Content (%)  
+  Spinning 
+Speed (RPM)  
+  WW90FG3M05**  
+   ECO 40-60   
+  9.0    3:48    0.812    67.0    37    53.9    1400  
+  4.5    2:54    0.501    46.0    33    53.9    1400  
+  2.5    2:54    0.217    37.0    26    53.9    1400  
+   COTTON  90C    9.0    2:19    2.409    80.0    72    83.0    800  
+   COTTON  60C 
++  Soak      9.0    2:11    1.477    73.8    55    81.0    800  
+   WOOL/
+DELICATES      2.5    0:44    0.098    49.0    20    125.9    400  
+   QUICK WASH 15'     2.5    0:15    0.020    28.0    16    93.7    800  
+  WW80FG3M05**  
+   ECO 40-60   
+  8.0    3:38    0.740    61.0    37    53.9    1400  
+  4.0    2:48    0.426    44.0    32    53.9    1400  
+  2.0    2:48    0.216    36.0    25    53.9    1400  
+   COTTON  90C    8.0    2:19    2.015    72.6    70    81.0    800  
+   COTTON  60C 
++  Soak      8.0    2:11    1.407    67.0    55    81.0    800  
+   WOOL/
+DELICATES      2.0    0:44    0.092    47.0    20    128.9    400  
+   QUICK WASH 15'     2.0    0:15    0.019    27.0    16    93.7    800  
+  WW70FG3M05**  
+   ECO 40-60   
+  7.0    3:28    0.670    56.0    38    53.90    1400  
+  3.5    2:42    0.378    42.0    31    53.90    1400  
+  2.0    2:42    0.198    34.0    25    53.90    1400  
+   COTTON  90C    7.0    2:19    1.900    68.0    70    81.0    800  
+   COTTON  60C 
++  Soak      7.0    2:11    1.184    65.0    55    83.0    800  
+   WOOL/
+DELICATES      2.0    0:44    0.090    46.0    20    125.6    400  
+   QUICK WASH 15'     2.0    0:15    0.017    27.0    16    93.4    800  
+    The values given for programmes other than the   ECO 40-60   programme and the wash and dry cycle are 
+indicative only.  
+    The time values stated here may differ from the actual values due to the influence of the water 
+pressure/hardness/temperature, type/amount/soiling level of the laundry, type/amount of the 
+detergent used, power supply, and the selected additional functions.     
+Untitled-1   58Untitled-1   58 2025-02-13    11:17:572025-02-13    11:17:57
+English59
+  Contact information  
+   QUESTIONS OR COMMENTS?  
+  COUNTRY    CALL    OR VISIT US ONLINE AT  
+  UK     0333 000 0333      www.samsung.com/uk/support   
+  IRELAND (EIRE)     0818 717100     www.samsung.com/ie/support   
+  GERMANY     06196 77 555 77     www.samsung.com/de/support   
+  FRANCE     01 48 63 00 00     www.samsung.com/fr/support   
+  SPAIN     91 175 00 15      www.samsung.com/es/support   
+  PORTUGAL   
+  210 608 098   
+  Chamada para a rede fixa nacional   
+  Dias teis das 9h s 20h   
+  www.samsung.com/pt/support   
+  LUXEMBURG     261 03 710     www.samsung.com/be_fr/support   
+  NETHERLANDS     088 90 90 100     www.samsung.com/nl/support   
+  BELGIUM     02-201-24-18     www.samsung.com/be/support (Dutch)    
+  www.samsung.com/be_fr/support (French)   
+  NORWAY     21 62 90 99     www.samsung.com/no/support   
+  DENMARK     70 70 19 70     www.samsung.com/dk/support   
+  FINLAND     030-622 75 15     www.samsung.com/fi/support   
+  SWEDEN     0771-400 300     www.samsung.com/se/support   
+  AUSTRIA     0800 72 67 864 (0800-SAMSUNG)     www.samsung.com/at/support   
+  SWITZERLAND     0800 726 786     www.samsung.com/ch/support (German)   
+  www.samsung.com/ch_fr/support (French)   
+  HUNGARY     0680SAMSUNG (0680-726-7864)     www.samsung.com/hu/support   
+  CZECH     800 - SAMSUNG (800-726786)     www.samsung.com/cz/support   
+  SLOVAKIA     0800 - SAMSUNG (0800-726 786)     www.samsung.com/sk/support   
+  CROATIA     072 726 786     www.samsung.com/hr/support   
+  BOSNIA     055 233 999     www.samsung.com/ba/support   
+  North 
+Macedonia     023 207 777     www.samsung.com/mk/support   
+  MONTENEGRO     020 405 888     www.samsung.com/support   
+  SLOVENIA     080 697 267 (brezplana tevilka)     www.samsung.com/si/support   
+  SERBIA     011 321 6899     www.samsung.com/rs/support   
+  Kosovo     038 40 30 90     www.samsung.com/support   
+  ALBANIA     045 620 202     www.samsung.com/al/support   
+Untitled-1   59Untitled-1   59 2025-02-13    11:17:572025-02-13    11:17:57
+Contact information
+English60
+  COUNTRY    CALL    OR VISIT US ONLINE AT  
+  BULGARIA   
+  0800 111 31 -    
+   
+  *3000 -     
+     
+    
+  09:00  18:00 -   
+   
+  www.samsung.com/bg/support   
+  ROMANIA   
+  0800872678 - Apel gratuit   
+  *8000 - Apel tarifat n reea   
+  Program Call Center   
+  Luni - Vineri: 9 AM - 6 PM   
+  www.samsung.com/ro/support   
+  ITALIA     800-SAMSUNG (800.7267864)     www.samsung.com/it/support   
+  CYPRUS     8009 4000 only from landline, toll 
+free   
+  www.samsung.com/gr/support    
+  GREECE   
+  80111-SAMSUNG (80111 726 7864) 
+from mobile and land line   
+  (+30) 210 6897691 from mobile and 
+land line   
+  POLAND     801-172-678*   
+  * (opata wedug taryfy operatora)     http://www.samsung.com/pl/support/   
+  LITHUANIA     8-800-77777     www.samsung.com/lt/support   
+  LATVIA     8000-7267     www.samsung.com/lv/support   
+  ESTONIA     800-7267     www.samsung.com/ee/support   
+  UKRAINE     0-800-502-000     www.samsung.com/ua/support   
+Untitled-1   60Untitled-1   60 2025-02-13    11:17:572025-02-13    11:17:57
+Memo
+Untitled-1   61Untitled-1   61 2025-02-13    11:17:572025-02-13    11:17:57
+Memo
+Untitled-1   62Untitled-1   62 2025-02-13    11:17:572025-02-13    11:17:57
+Memo
+Untitled-1   63Untitled-1   63 2025-02-13    11:17:572025-02-13    11:17:57
+   
+Untitled-1   64Untitled-1   64 2025-02-13    11:17:572025-02-13    11:17:57
